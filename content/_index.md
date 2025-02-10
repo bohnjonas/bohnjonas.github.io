@@ -32,8 +32,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      columns: '2'
-      layout: 'grid'
+      is_education_first: true
   - block: skills
     content:
       title: Skills & Hobbies
