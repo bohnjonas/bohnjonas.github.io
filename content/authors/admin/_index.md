@@ -113,7 +113,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 80
-        icon: :coffee:
+        icon: ☕
 
 languages:
   - name: English
