@@ -102,26 +102,26 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Road Cycling
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 80
+        icon: person-cycling
+      - name: Cooking
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Coffee
         description: ''
         percent: 80
-        icon: camera
+        icon: coffee
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: German
+    percent: 100
+  - name: French
+    percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
