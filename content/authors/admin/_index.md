@@ -151,8 +151,8 @@ skills:
         icon: devicon/cplusplus
     
   - name: Technical Toolbox
-    color: '#00ff00'
-    color_border: '#00ff00'
+    color: '#2e6f40'
+    color_border: '#2e6f40'
     items:
       - name: Jira
         description: ''
@@ -216,4 +216,6 @@ languages:
 
 ---
 
-I am currently without a job but looking for a challenging opportunity in a company that is looking for a highly motivated, solution seeking and team oriented individual.
+Website is currently under construction. Please check back later for more up to date content.
+
+<!-- I am currently without a job but looking for a challenging opportunity in a company that is looking for a highly motivated, solution seeking and team oriented individual. -->
