@@ -70,13 +70,12 @@ work:
     date_start: 2021-06-01
     date_end: 2024-03-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I evaluated and optimized the customer journey of the biggest e-commerce shop in Switzerland using tools such as Google Analytics, Sistrix, SQL databases and Tableau reporting.
+
     button:
       text: 'Employment Reference (German)'
       url: uploads/Arbeitszeugnis_DigitecGalaxus_2024.pdf
+
   - position: Customer Service Representative
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
@@ -84,10 +83,8 @@ work:
     date_start: 2020-03-01
     date_end: 2021-05-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I effectively managed and addressed customer inquiries via email, ensuring prompt and satisfactory responses working from home during the pandemic.
+
   - position: Data Entry Clerk Marketplace
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
@@ -95,10 +92,8 @@ work:
     date_start: 2016-08-22
     date_end: 2017-07-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I sourced product data to ensure high data quality. Additionally, I was responsible for developing internal processes for the data processing of new marketplace suppliers and representing my team in company meetings.
+
     button:
       text: 'Employment Reference (German)'
       url: uploads/Arbeitszeugnis_DigitecGalaxus_2017.pdf
@@ -149,32 +144,22 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+collection:
+  - title: AI-Powered Chatbot
+    url: https://example.com/projects/chatbot
+    date: '2024-02-01'
+    client: TechCorp
+    icon: ai
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Built an AI-powered chatbot for customer service, integrating NLP and machine learning for natural interactions.
+  - title: Web Application for Data Analysis
+    url: https://example.com/projects/data-app
+    date: '2023-12-15'
+    client: DataInsights
+    icon: web
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Developed a web-based data visualization tool using Python, Flask, and D3.js for real-time analytics.
+
 ---
 
 I am currently without a job but looking for a challenging opportunity in a company that is looking for a highly motivated, solution seeking and team oriented individual.
