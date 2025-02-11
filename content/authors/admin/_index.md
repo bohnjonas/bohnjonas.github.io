@@ -34,6 +34,8 @@ profiles:
     url: https://github.com/bohnjonas
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bohnj
+  - icon: "custom/strava"
+    url: https://www.strava.com/athletes/57780103
 
 education:
   - area: Master of Science in Robotics, Systems and Control
