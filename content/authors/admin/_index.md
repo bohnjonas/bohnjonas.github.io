@@ -125,14 +125,6 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: Git
-        description: ''
-        percent: 60
-        icon: devicon/git
-      - name: Jira
-        description: ''
-        percent: 100
-        icon: devicon/jira
       - name: Flutter
         description: ''
         percent: 60
@@ -152,34 +144,34 @@ skills:
     
   - name: Technical Toolbox
     items:
-      - name: ROS
+      - name: Git
         description: ''
-        percent: 80
-        icon: custom/ros
-      - name: OpenCV
+        percent: 60
+        icon: devicon/git
+      - name: Jira
         description: ''
-        percent: 80
-        icon: custom/opencv
+        percent: 100
+        icon: devicon/jira
       - name: TensorFlow
         description: ''
         percent: 60
-        icon: custom/tensorflow
+        icon: devicon/tensorflow
       - name: PyTorch
         description: ''
         percent: 60
-        icon: custom/pytorch
+        icon: devicon/pytorch
       - name: Docker
         description: ''
         percent: 60
-        icon: custom/docker
+        icon: devicon/docker
       - name: Tableau
         description: ''
         percent: 60
-        icon: custom/tableau
+        icon: devicon/tableau
       - name: SolidWorks
         description: ''
         percent: 40
-        icon: custom/solidworks
+        icon: devicon/solidworks
       
 
   - name: Hobbies
