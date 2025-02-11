@@ -60,16 +60,21 @@ education:
   - area: Bachelor of Science in Mechanical Engineering
     institution: ETH Zurich
     date_start: 2016-09-18
-    date_end: 2021-09-19
+    date_end: 2022-09-30
     summary: |
-      GPA: 3.8/4.0
+      Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems. 
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Microrobotics
+      - Control Systems I & II
+      - Signals and Systems
+      - Biomechatronics
+      - Managerial Economics
 
-work:
+    button:
+      text: 'Bachelor Diploma'
+      url: uploads/bachelordiplom.pdf
+      
   - position: Junior Shop Structure Manager
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
