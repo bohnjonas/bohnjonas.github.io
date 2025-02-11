@@ -119,7 +119,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Skills
     items:
       - name: Python
         description: ''
@@ -127,7 +127,7 @@ skills:
         icon: devicon/python
       - name: Git
         description: ''
-        percent: 80
+        percent: 60
         icon: devicon/git
       - name: Jira
         description: ''
@@ -149,6 +149,37 @@ skills:
         description: ''
         percent: 40
         icon: devicon/cplusplus
+    
+  - name: Technical Toolbox
+    items:
+      - name: ROS
+        description: ''
+        percent: 80
+        icon: custom/ros
+      - name: OpenCV
+        description: ''
+        percent: 80
+        icon: custom/opencv
+      - name: TensorFlow
+        description: ''
+        percent: 60
+        icon: custom/tensorflow
+      - name: PyTorch
+        description: ''
+        percent: 60
+        icon: custom/pytorch
+      - name: Docker
+        description: ''
+        percent: 60
+        icon: custom/docker
+      - name: Tableau
+        description: ''
+        percent: 60
+        icon: custom/tableau
+      - name: SolidWorks
+        description: ''
+        percent: 40
+        icon: custom/solidworks
       
 
   - name: Hobbies
