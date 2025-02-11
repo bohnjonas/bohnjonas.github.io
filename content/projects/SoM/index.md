@@ -1,6 +1,6 @@
 ---
 title: "Study on a Robotic Arm for Sampling Lunar Regolith"
-date: 2020-7-01
+date: 2020-07-01
 authors:
     - admin
 summary: "This thesis explores the challenges of object detection in low-light conditions and proposes a novel approach to improve performance. We demonstrate the effectiveness of our method on a standard benchmark dataset, achieving state-of-the-art results in challenging scenarios."
@@ -12,6 +12,12 @@ url_code: "github.com/someone/something"
 url_slides: "slides.com/someone/something"
 
 supervisor: "Prof. Dr. Marco Hutter"
+
+grades:
+    - grade: 5.5
+      course: "Bachelor Thesis"
+      date: "2020-07-01"
+      university: "ETH Zurich"
 
 tags: 
     - Object Detection
