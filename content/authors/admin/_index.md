@@ -36,8 +36,6 @@ profiles:
     url: https://www.linkedin.com/in/bohnj
   - icon: "custom/strava_brand"
     url: https://www.strava.com/athletes/57780103
-  - icon: brands/strava
-    url: https://www.strava.com/athletes/57780103
 
 education:
   - area: Master of Science in Robotics, Systems and Control
@@ -142,11 +140,11 @@ skills:
       - name: Road Cycling
         description: ''
         percent: 80
-        icon: person-cycling
+        icon: custom/bike
       - name: Cooking
         description: ''
         percent: 100
-        icon: cat
+        icon: custom/pan
       - name: Coffee
         description: ''
         percent: 80
