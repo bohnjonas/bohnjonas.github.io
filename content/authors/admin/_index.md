@@ -35,84 +35,84 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bohnj
 
-# education:
-#   - area: Master of Science in Robotics, Systems and Control
-#     institution: ETH Zurich
-#     institution_url: 'https://www.ethz.ch/en.html'
-#     date_start: 2021-09-19
-#     date_end: 2025-02-19
-#     company_logo: eth_logo_kurz_pos
-#     summary: |
-#       Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
+education:
+  - area: Master of Science in Robotics, Systems and Control
+    institution: ETH Zurich
+    institution_url: 'https://www.ethz.ch/en.html'
+    date_start: 2021-09-19
+    date_end: 2025-02-19
+    company_logo: eth_logo_kurz_pos
+    summary: |
+      Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
 
-#       Courses included:
-#       - Autonomous Mobile Robots
-#       - Computer Vision
-#       - Machine Perception
-#       - Introduction to Machine Learning
-#       - Planning and Decision Making for Autonomous Robots
-#       - Probabilistic Artificial Intelligence
-#       - Vision Algorithms for Mobile Robotics
-#       - 3D Vision
+      Courses included:
+      - Autonomous Mobile Robots
+      - Computer Vision
+      - Machine Perception
+      - Introduction to Machine Learning
+      - Planning and Decision Making for Autonomous Robots
+      - Probabilistic Artificial Intelligence
+      - Vision Algorithms for Mobile Robotics
+      - 3D Vision
 
-#     button:
-#       text: 'Read Master Thesis'
-#       url: 'https://example.com'
+    button:
+      text: 'Read Master Thesis'
+      url: 'https://example.com'
 
-#   - area: Bachelor of Science in Mechanical Engineering
-#     institution: ETH Zurich
-#     date_start: 2016-09-18
-#     date_end: 2022-09-30
-#     icon: eth_logo_kurz_pos.png
-#     summary: |
-#       Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems with a strong emphasis on mathematical and physical foundations.
+  - area: Bachelor of Science in Mechanical Engineering
+    institution: ETH Zurich
+    date_start: 2016-09-18
+    date_end: 2022-09-30
+    icon: eth_logo_kurz_pos.png
+    summary: |
+      Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems with a strong emphasis on mathematical and physical foundations.
 
-#       Courses included:
-#       - Microrobotics
-#       - Control Systems I & II
-#       - Signals and Systems
-#       - Biomechatronics
-#       - Managerial Economics
+      Courses included:
+      - Microrobotics
+      - Control Systems I & II
+      - Signals and Systems
+      - Biomechatronics
+      - Managerial Economics
 
-#     button:
-#       text: 'Bachelor Diploma'
-#       url: uploads/bachelordiplom.pdf
+    button:
+      text: 'Bachelor Diploma'
+      url: uploads/bachelordiplom.pdf
 
-# work:
-#   - position: Junior Shop Structure Manager
-#     company_name: Digitec Galaxus AG
-#     company_url: 'https://www.galaxus.ch/de/wiki/528'
-#     company_logo: digitecgalaxus
-#     date_start: 2021-06-01
-#     date_end: 2024-03-31
-#     summary: |2-
-#       I evaluated and optimized the customer journey of the biggest e-commerce shop in Switzerland using tools such as Google Analytics, Sistrix, SQL databases and Tableau reporting.
+work:
+  - position: Junior Shop Structure Manager
+    company_name: Digitec Galaxus AG
+    company_url: 'https://www.galaxus.ch/de/wiki/528'
+    company_logo: digitecgalaxus
+    date_start: 2021-06-01
+    date_end: 2024-03-31
+    summary: |2-
+      I evaluated and optimized the customer journey of the biggest e-commerce shop in Switzerland using tools such as Google Analytics, Sistrix, SQL databases and Tableau reporting.
 
-#     button:
-#       text: 'Employment Reference (German)'
-#       url: uploads/Arbeitszeugnis_DigitecGalaxus_2024.pdf
+    button:
+      text: 'Employment Reference (German)'
+      url: uploads/Arbeitszeugnis_DigitecGalaxus_2024.pdf
 
-#   - position: Customer Service Representative
-#     company_name: Digitec Galaxus AG
-#     company_url: 'https://www.galaxus.ch/de/wiki/528'
-#     company_logo: digitecgalaxus
-#     date_start: 2020-03-01
-#     date_end: 2021-05-31
-#     summary: |
-#       I effectively managed and addressed customer inquiries via email, ensuring prompt and satisfactory responses working from home during the pandemic.
+  - position: Customer Service Representative
+    company_name: Digitec Galaxus AG
+    company_url: 'https://www.galaxus.ch/de/wiki/528'
+    company_logo: digitecgalaxus
+    date_start: 2020-03-01
+    date_end: 2021-05-31
+    summary: |
+      I effectively managed and addressed customer inquiries via email, ensuring prompt and satisfactory responses working from home during the pandemic.
 
-#   - position: Data Entry Clerk Marketplace
-#     company_name: Digitec Galaxus AG
-#     company_url: 'https://www.galaxus.ch/de/wiki/528'
-#     company_logo: digitecgalaxus
-#     date_start: 2016-08-22
-#     date_end: 2017-07-31
-#     summary: |
-#       I sourced product data to ensure high data quality. Additionally, I was responsible for developing internal processes for the data processing of new marketplace suppliers and representing my team in company meetings.
+  - position: Data Entry Clerk Marketplace
+    company_name: Digitec Galaxus AG
+    company_url: 'https://www.galaxus.ch/de/wiki/528'
+    company_logo: digitecgalaxus
+    date_start: 2016-08-22
+    date_end: 2017-07-31
+    summary: |
+      I sourced product data to ensure high data quality. Additionally, I was responsible for developing internal processes for the data processing of new marketplace suppliers and representing my team in company meetings.
 
-#     button:
-#       text: 'Employment Reference (German)'
-#       url: uploads/Arbeitszeugnis_DigitecGalaxus_2017.pdf
+    button:
+      text: 'Employment Reference (German)'
+      url: uploads/Arbeitszeugnis_DigitecGalaxus_2017.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
