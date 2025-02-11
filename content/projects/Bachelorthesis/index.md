@@ -13,6 +13,7 @@ The optimised neural networks are further used to create segmentations on video 
 
 url_pdf: uploads/BachelorThesis.pdf
 url_code: "https://github.com/bohnjonas/Fetopscopy_Python"
+url_slides: uploads/BachelorThesis_finalpresentation.pdf
 
 tags: 
     - Semantic Segmentation
@@ -25,4 +26,10 @@ image:
     preview_only: false
 ---
 
-Testing some stuff.
+To conclude my Bachelor's degree in Mechanical Engineering at ETH Zurich, I conducted a research project at the [**Multi-Scale Robotics Lab**](https://www.msrl.ethz.ch/) under the supervision of Dr. Jonas Lussi and Dr. Simone Gervasoni. The project aimed to develop a deep learning model for automated vessel detection in fetoscopic videos to support the treatment of twin-to-twin transfusion syndrome. During this project my goal was to deepen my theoretical and practical understanding of deep learning and computer vision, and to apply this knowledge to a real-world problem in the field of medical robotics. The project was graded **6.0 / 6.0**.
+
+### Project Documents  
+
+- 📄 **Final Report:** [View here](uploads/BachelorThesis.pdf)  
+- 📊 **Final Presentation:** [View here](uploads/BachelorThesis_finalpresentation.pdf)
+- 📝 **Code Repository:** [View here](https://github.com/bohnjonas/Fetopscopy_Python)  
