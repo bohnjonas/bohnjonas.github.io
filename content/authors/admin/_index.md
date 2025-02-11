@@ -75,6 +75,7 @@ education:
       text: 'Bachelor Diploma'
       url: uploads/bachelordiplom.pdf
       
+work:
   - position: Junior Shop Structure Manager
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
