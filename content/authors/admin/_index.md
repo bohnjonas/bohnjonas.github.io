@@ -139,7 +139,7 @@ skills:
         icon: devicon/mysql
       - name: Bash
         description: ''
-        percent: 60
+        percent: 50
         icon: devicon/bash
       - name: Java
         description: ''
@@ -151,15 +151,17 @@ skills:
         icon: devicon/cplusplus
     
   - name: Technical Toolbox
+    color: '#008000'
+    color_border: '#00ff00'
     items:
-      - name: Git
-        description: ''
-        percent: 60
-        icon: devicon/git
       - name: Jira
         description: ''
         percent: 100
         icon: devicon/jira
+      - name: Git
+        description: ''
+        percent: 70
+        icon: devicon/git
       - name: TensorFlow
         description: ''
         percent: 60
@@ -168,18 +170,18 @@ skills:
         description: ''
         percent: 60
         icon: devicon/pytorch
-      - name: Docker
-        description: ''
-        percent: 60
-        icon: devicon/docker
       - name: Scikit-Learn
         description: ''
         percent: 60
         icon: devicon/scikitlearn
-      - name: Raspberry Pi
+      - name: Docker
         description: ''
         percent: 50
-        icon: devicon/raspberrypi
+        icon: devicon/docker
+      - name: Linux
+        description: ''
+        percent: 50
+        icon: devicon/linux
       
 
   - name: Hobbies
