@@ -38,11 +38,29 @@ sections:
       title: Skills & Hobbies
       username: admin
   - block: collection
+    id: projects
     content:
       title: Selected Projects
-      username: admin
+      subtitle: ''
+      text: 'Check out my recent projects below!'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
+      filters:
+        # The folders to display content from
+        folders:
+          - projects
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
+      offset: 0
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
-      view: compact
+      # Choose a listing view
+      view: article-grid
+      # Choose single or dual column layout
+      columns: '1'
   - block: languages
     content:
       title: Languages
