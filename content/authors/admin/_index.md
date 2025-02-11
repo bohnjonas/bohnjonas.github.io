@@ -32,10 +32,13 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/bohnjonas
+    label: GitHub
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bohnj
+    label: LinkedIn
   - icon: "custom/strava_brand"
     url: https://www.strava.com/athletes/57780103
+    label: Strava
 
 education:
   - area: Master of Science in Robotics, Systems and Control
