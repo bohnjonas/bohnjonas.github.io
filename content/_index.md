@@ -27,7 +27,20 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
+      title: Experience
       username: admin
+      items:
+       - title: 'Research Assistant'
+         company: 'ETH Zurich'
+         company_url: 'https://www.ethz.ch/en.html'
+         company_logo: eth_logo_kurz_pos
+         location: 'Zurich, Switzerland'
+         date_start: '2021-09-19'
+         date_end: '2025-02-19'
+         description: |-
+           - Conducting research in the field of robotics and machine learning
+           - Developing algorithms for object detection and pose estimation
+           - Collaborating with other researchers and students
     design:
       # Hugo date format
       date_format: 'January 2006'
