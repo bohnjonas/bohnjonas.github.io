@@ -28,7 +28,6 @@ sections:
   - block: experience
     content:
       title: Experience
-      username: admin
       items:
        - title: 'Research Assistant'
          company: 'ETH Zurich'
