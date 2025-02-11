@@ -41,7 +41,7 @@ education:
     institution_url: 'https://www.ethz.ch/en.html'
     date_start: 2021-09-19
     date_end: 2025-02-19
-    icon: assets/media/eth_logo_kurz_pos.png
+    company_logo: eth_logo_kurz_pos
     summary: |
       Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
 
@@ -82,7 +82,7 @@ work:
   - position: Junior Shop Structure Manager
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
-    company_logo: custom/digitecgalaxus
+    company_logo: digitecgalaxus
     date_start: 2021-06-01
     date_end: 2024-03-31
     summary: |2-
