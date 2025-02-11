@@ -41,15 +41,22 @@ education:
     date_start: 2021-09-19
     date_end: 2025-02-19
     summary: |
-      Master thesis at the [ADAMMA](https://adamma.ethz.ch/) Core working towards an Open-source Smart Inhaler System for Adherence Monitoring in Low- and Middle-Income Countries Using Machine Learning. Supervised by [Patrick Langer](https://patricklanger.info/) and [Prof. E. Fleisch](https://im.ethz.ch/people/efleisch.html). Grade: 6.0/6.0
+      Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Autonomous Mobile Robots
+      - Computer Vision
+      - Machine Perception
+      - Introduction to Machine Learning
+      - Planning and Decision Making for Autonomous Robots
+      - Probabilistic Artificial Intelligence
+      - Vision Algorithms for Mobile Robotics
+      - 3D Vision
+
     button:
       text: 'Read Master Thesis'
       url: 'https://example.com'
+
   - area: Bachelor of Science in Mechanical Engineering
     institution: ETH Zurich
     date_start: 2016-09-18
