@@ -37,12 +37,12 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
+  - block: collection
     content:
-      title: Projects
+      title: Selected Projects
       username: admin
     design:
-      view: card
+      view: compact
   - block: languages
     content:
       title: Languages
