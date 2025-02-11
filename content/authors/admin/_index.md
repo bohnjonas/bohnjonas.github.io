@@ -38,8 +38,10 @@ profiles:
 education:
   - area: Master of Science in Robotics, Systems and Control
     institution: ETH Zurich
+    institution_url: 'https://www.ethz.ch/en.html'
     date_start: 2021-09-19
     date_end: 2025-02-19
+    icon: assets/media/eth_logo_kurz_pos.png
     summary: |
       Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
 
@@ -61,8 +63,9 @@ education:
     institution: ETH Zurich
     date_start: 2016-09-18
     date_end: 2022-09-30
+    icon: eth_logo_kurz_pos.png
     summary: |
-      Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems. 
+      Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems with a strong emphasis on mathematical and physical foundations.
 
       Courses included:
       - Microrobotics
@@ -74,7 +77,7 @@ education:
     button:
       text: 'Bachelor Diploma'
       url: uploads/bachelordiplom.pdf
-      
+
 work:
   - position: Junior Shop Structure Manager
     company_name: Digitec Galaxus AG
