@@ -30,7 +30,8 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: floating-theme-toggler
+    blox: navbar
+    fixed_to_top: true
 
 # Site footer
 footer:
