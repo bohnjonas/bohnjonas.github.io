@@ -34,7 +34,9 @@ profiles:
     url: https://github.com/bohnjonas
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/bohnj
-  - icon: "custom/strava-svgrepo-com"
+  - icon: "custom/strava_black"
+    url: https://www.strava.com/athletes/57780103
+  -icon: brands/strava
     url: https://www.strava.com/athletes/57780103
 
 education:
