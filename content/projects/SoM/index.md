@@ -38,10 +38,3 @@ image:
 This project was part of the *Studies on Mechatronics* project which is part of the Bachelor's degree with Focus in Mechatronics at ETH Zurich. I chose this particular project to gain first experience in the field of robotics and to work on a real-world problem in collaboration with **Airbus Defence and Space**. During the project, I prepared weekly meetings with the project supervisor, conducted literature research, and developed a concept for a robotic arm and operational concept for sampling lunar regolith.
 
 The project was conducted under the supervision of Dr. Hendrik Kolvenbach at the [**Robotic Systems Lab**](https://rsl.ethz.ch/), led by Prof. Dr. Marco Hutter, and was graded **6.0 / 6.0**.
-
-### Project Documents  
-
-- 📄 **Final Report:** [View here](uploads/SoM_finalreport.pdf)  
-- 📊 **Final Presentation:** [View here](uploads/SoM_finalpresentation.pdf)  
-- 📝 **Reference Letter (Dr. Hendrik Kolvenbach):** [View here](uploads/Reference_RSL.pdf)  
-
