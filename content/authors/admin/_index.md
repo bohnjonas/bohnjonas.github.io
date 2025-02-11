@@ -151,7 +151,7 @@ skills:
         icon: devicon/cplusplus
     
   - name: Technical Toolbox
-    color: '#008000'
+    color: '#00ff00'
     color_border: '#00ff00'
     items:
       - name: Jira
