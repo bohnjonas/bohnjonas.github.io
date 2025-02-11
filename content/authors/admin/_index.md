@@ -125,14 +125,32 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: Git
+        description: ''
+        percent: 80
+        icon: devicon/git
+      - name: Jira
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: devicon/jira
+      - name: Flutter
+        description: ''
+        percent: 60
+        icon: devicon/flutter
+      - name: SQL
+        description: ''
+        percent: 60
+        icon: devicon/mysql
+      - name: Java
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: devicon/java
+      - name: C++
+        description: ''
+        percent: 40
+        icon: devicon/cplusplus
+      
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -162,21 +180,6 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-collection:
-  - title: AI-Powered Chatbot
-    url: https://example.com/projects/chatbot
-    date: '2024-02-01'
-    client: TechCorp
-    icon: ai
-    summary: |
-      Built an AI-powered chatbot for customer service, integrating NLP and machine learning for natural interactions.
-  - title: Web Application for Data Analysis
-    url: https://example.com/projects/data-app
-    date: '2023-12-15'
-    client: DataInsights
-    icon: web
-    summary: |
-      Developed a web-based data visualization tool using Python, Flask, and D3.js for real-time analytics.
 
 ---
 
