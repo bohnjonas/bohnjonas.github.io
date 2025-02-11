@@ -66,7 +66,7 @@ work:
   - position: Junior Shop Structure Manager
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
-    company_logo: "custom/digitecgalaxus.png"
+    company_logo: custom/digitecgalaxus
     date_start: 2021-06-01
     date_end: 2024-03-31
     summary: |2-
@@ -74,17 +74,34 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    button:
+      text: 'Employment Reference (German)'
+      url: uploads/Arbeitszeugnis_DigitecGalaxus_2024.pdf
+  - position: Customer Service Representative
+    company_name: Digitec Galaxus AG
+    company_url: 'https://www.galaxus.ch/de/wiki/528'
+    company_logo: digitecgalaxus
+    date_start: 2020-03-01
+    date_end: 2021-05-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Data Entry Clerk Marketplace
+    company_name: Digitec Galaxus AG
+    company_url: 'https://www.galaxus.ch/de/wiki/528'
+    company_logo: digitecgalaxus
+    date_start: 2016-08-22
+    date_end: 2017-07-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 'Employment Reference (German)'
+      url: uploads/Arbeitszeugnis_DigitecGalaxus_2017.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
