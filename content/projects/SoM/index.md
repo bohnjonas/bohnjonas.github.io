@@ -35,5 +35,15 @@ image:
     preview_only: false
 ---
 
-The Studies on Mechatronics project was part of the Bachelor's degree with Focus in Mechatronics at the ETH Zurich. I choose this project to gain first experience in the field of robotics and to work on a real-world problem in collaboration with Airbus Defence and Space. The project was done under Supervision of Dr. Hendrik Kolvenbach at the Robotic Systems Lab led by Prof. Dr. Marco Hutter and graded with 6.0 / 6.0. My concept was presented to R&D engineers from Airbus and later used for a first official concept rendering. The final report and presentation can be found [here](uploads/SoM_finalreport.pdf) and [here](uploads/SoM_finalpresentation.pdf). A reference letter from Dr. Hendrik Kolvenbach can be found [here](uploads/Reference_RSL.pdf).
+# Studies on Mechatronics Project  
+
+The *Studies on Mechatronics* project was part of the **Bachelor's degree with Focus in Mechatronics** at **ETH Zurich**. I chose this project to gain first experience in the field of **robotics** and to work on a real-world problem in collaboration with **Airbus Defence and Space**.  
+
+The project was conducted under the supervision of **Dr. Hendrik Kolvenbach** at the **Robotic Systems Lab**, led by **Prof. Dr. Marco Hutter**, and was graded **6.0 / 6.0**. My concept was presented to **R&D engineers from Airbus** and later used for an initial **official concept rendering**.  
+
+### Project Documents  
+
+- 📄 **Final Report:** [View here](uploads/SoM_finalreport.pdf)  
+- 📊 **Final Presentation:** [View here](uploads/SoM_finalpresentation.pdf)  
+- 📝 **Reference Letter (Dr. Hendrik Kolvenbach):** [View here](uploads/Reference_RSL.pdf)  
 
