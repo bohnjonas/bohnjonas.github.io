@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Jonas Bohn'
+date: 2025-02-11
 type: landing
 
 design:

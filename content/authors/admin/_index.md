@@ -66,7 +66,7 @@ work:
   - position: Junior Shop Structure Manager
     company_name: Digitec Galaxus AG
     company_url: 'https://www.galaxus.ch/de/wiki/528'
-    company_logo: ''
+    company_logo: "custom/digitecgalaxus.png"
     date_start: 2021-06-01
     date_end: 2024-03-31
     summary: |2-
