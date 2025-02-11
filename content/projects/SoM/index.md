@@ -24,8 +24,18 @@ more."
 url_pdf: uploads/SoM_finalreport.pdf
 url_slides: uploads/SoM_finalpresentation.pdf
 
+links:
+- name: Report
+  url: uploads/SoM_finalreport.pdf
+- name: Presentation
+  url: uploads/SoM_finalpresentation.pdf
+- name: Reference Letter
+  url: uploads/Reference_RSL.pdf
+
+
 image:
     caption: 'Concept of the robotic arm for sampling lunar regolith'
     focal_point: Smart
     preview_only: false
 ---
+
