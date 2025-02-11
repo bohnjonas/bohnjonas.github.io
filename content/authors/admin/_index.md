@@ -144,11 +144,11 @@ skills:
       - name: Cooking
         description: ''
         percent: 100
-        icon: custom/pan
+        icon: cat
       - name: Coffee
         description: ''
         percent: 80
-        icon: ☕️
+        icon: : coffee :
 
 languages:
   - name: English
