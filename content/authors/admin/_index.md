@@ -129,10 +129,18 @@ skills:
         description: ''
         percent: 60
         icon: devicon/flutter
+      - name: Dart
+        description: ''
+        percent: 50
+        icon: devicon/dart
       - name: SQL
         description: ''
         percent: 60
         icon: devicon/mysql
+      - name: Bash
+        description: ''
+        percent: 60
+        icon: devicon/bash
       - name: Java
         description: ''
         percent: 40
@@ -164,14 +172,14 @@ skills:
         description: ''
         percent: 60
         icon: devicon/docker
-      - name: Tableau
+      - name: Scikit-Learn
         description: ''
         percent: 60
-        icon: devicon/tableau
-      - name: SolidWorks
+        icon: devicon/scikitlearn
+      - name: Raspberry Pi
         description: ''
-        percent: 40
-        icon: devicon/solidworks
+        percent: 50
+        icon: devicon/raspberrypi
       
 
   - name: Hobbies

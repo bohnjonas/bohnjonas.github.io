@@ -38,6 +38,8 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+    design:
+      columns: 3
   - block: collection
     id: projects
     content:
