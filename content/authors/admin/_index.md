@@ -63,7 +63,7 @@ education:
       - Vision Algorithms for Mobile Robotics
 
     button:
-      text: 'Master Diploma'
+      text: 'Master Diploma (in progress)'
       url: 'https://example.com'
 
   - area: Bachelor of Science in Mechanical Engineering
