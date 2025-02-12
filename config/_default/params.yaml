@@ -36,6 +36,10 @@ header:
       text: "Jonas Bohn"
     show_search: true
     highlight_active_link: true
+    button:
+      enable: true
+      text: "Press for Good Luck"
+      url: uploads/hireme.jpg
 
 # Site footer
 footer:
