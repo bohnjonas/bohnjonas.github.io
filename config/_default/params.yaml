@@ -32,7 +32,6 @@ header:
     enable: true
     blox: navbar
     fixed_to_top: true
-    align: "left"
     logo:
       text: "Jonas Bohn"
     show_search: true
