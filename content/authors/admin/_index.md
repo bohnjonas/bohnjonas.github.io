@@ -51,6 +51,8 @@ education:
       Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
 
       Courses included:
+      - [Master Thesis](https://bohnjonas.github.io/projects/masterthesis/)
+      - [3D Vision](https://bohnjonas.github.io/projects/3dvision/)
       - Autonomous Mobile Robots
       - Computer Vision
       - Machine Perception
@@ -58,10 +60,9 @@ education:
       - Planning and Decision Making for Autonomous Robots
       - Probabilistic Artificial Intelligence
       - Vision Algorithms for Mobile Robotics
-      - 3D Vision
 
     button:
-      text: 'Read Master Thesis'
+      text: 'Master Diploma'
       url: 'https://example.com'
 
   - area: Bachelor of Science in Mechanical Engineering
@@ -73,6 +74,8 @@ education:
       Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems with a strong emphasis on mathematical and physical foundations.
 
       Courses included:
+      - [Bachelor Thesis](https://bohnjonas.github.io/projects/bachelorthesis/)
+      - [Studies on Mechatronics](https://bohnjonas.github.io/projects/som/)
       - Microrobotics
       - Control Systems I & II
       - Signals and Systems
