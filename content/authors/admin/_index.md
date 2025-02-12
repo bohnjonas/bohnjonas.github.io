@@ -51,8 +51,9 @@ education:
       Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
 
       Courses included:
-      - [Master Thesis](https://bohnjonas.github.io/projects/masterthesis/)
-      - [3D Vision](https://bohnjonas.github.io/projects/3dvision/)
+      - [Master Thesis](/projects/masterthesis/)
+      - [Semester Project](/projects/semesterthesis/)
+      - [3D Vision](/projects/3dvision/)
       - Autonomous Mobile Robots
       - Computer Vision
       - Machine Perception
@@ -75,7 +76,7 @@ education:
 
       Courses included:
       - [Bachelor Thesis](/projects/bachelorthesis/)
-      - [Studies on Mechatronics](https://bohnjonas.github.io/projects/som/)
+      - [Studies on Mechatronics](/projects/som/)
       - Microrobotics
       - Control Systems I & II
       - Signals and Systems
