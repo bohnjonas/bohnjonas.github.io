@@ -33,6 +33,9 @@ image:
     caption: 'Concept of the robotic arm for sampling lunar regolith'
     focal_point: Smart
     preview_only: false
+
+reading_time: false
+share: false
 ---
 
 This project was part of the *Studies on Mechatronics* project which is part of the Bachelor's degree with Focus in Mechatronics at ETH Zurich. I chose this particular project to gain first experience in the field of robotics and to work on a real-world problem in collaboration with **Airbus Defence and Space**. During the project, I prepared weekly meetings with the project supervisor, conducted literature research, and developed a concept for a robotic arm and operational concept for sampling lunar regolith.

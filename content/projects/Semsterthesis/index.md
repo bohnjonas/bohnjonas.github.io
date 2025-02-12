@@ -31,6 +31,10 @@ image:
     caption: 'Example of sensor fusion for object detection using infrared and grayscale images'
     focal_point: Smart
     preview_only: false
+
+reading_time: false
+share: false
+
 ---
 
 Testing some stuff.
