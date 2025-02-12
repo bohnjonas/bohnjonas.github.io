@@ -36,6 +36,11 @@ header:
       text: "Jonas Bohn"
     show_search: true
     highlight_active_link: true
+    button:
+      enable: true
+      icon: brands/github
+      url: https://github.com/bohnjonas
+      label: GitHub
 
 # Site footer
 footer:
