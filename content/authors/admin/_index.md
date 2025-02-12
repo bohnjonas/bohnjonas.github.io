@@ -74,7 +74,7 @@ education:
       Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems with a strong emphasis on mathematical and physical foundations.
 
       Courses included:
-      - [Bachelor Thesis](https://bohnjonas.github.io/projects/bachelorthesis/)
+      - [Bachelor Thesis](/projects/bachelorthesis/)
       - [Studies on Mechatronics](https://bohnjonas.github.io/projects/som/)
       - Microrobotics
       - Control Systems I & II
