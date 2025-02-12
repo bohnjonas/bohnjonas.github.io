@@ -142,7 +142,7 @@ skills:
         icon: devicon/dart
       - name: SQL
         description: ''
-        percent: 60
+        percent: 40
         icon: devicon/mysql
       - name: Bash
         description: ''
@@ -206,7 +206,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 80
-        icon: ☕️
+        icon: cat
 
 languages:
   - name: English
