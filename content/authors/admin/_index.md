@@ -206,7 +206,7 @@ skills:
       - name: Coffee
         description: ''
         percent: 80
-        icon: cat
+        icon: ☕️
 
 languages:
   - name: English
