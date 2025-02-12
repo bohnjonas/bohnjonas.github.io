@@ -72,7 +72,7 @@ education:
     date_end: 2022-09-30
     icon: eth_logo_kurz_pos.png
     summary: |
-      Bachelor's program focusing on the fundamentals of mechanical engineering, including thermodynamics, fluid dynamics, and control systems with a strong emphasis on mathematical and physical foundations.
+      Bachelor’s program in Mechanical Engineering with a strong emphasis on mathematical and physical foundations, covering key areas such as thermodynamics, fluid dynamics, and control systems.
 
       Courses included:
       - [Bachelor Thesis](/projects/bachelorthesis/)
