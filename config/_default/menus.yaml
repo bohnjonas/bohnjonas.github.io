@@ -10,3 +10,6 @@ main:
   - name: Projects
     url: projects/
     weight: 20
+  - name: CV
+    url: uploads/CV_2025.pdf
+    weight: 30
