@@ -22,7 +22,8 @@ role: Master of Science in Robotics, Systems and Control
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: ETH Zurich
-    url: https://www.ethz.ch/en.html
+    url: https://master-robotics.ethz.ch/
+    logo: eth_logo_kurz_pos
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
