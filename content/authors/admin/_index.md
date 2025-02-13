@@ -48,7 +48,7 @@ education:
     date_end: 2025-02-19
     company_logo: eth_logo_kurz_pos
     summary: |
-      Multi-disciplinary master's program focusing on vision-based learning, path-planning, and general applications of machine learning methods in robotic applications or data analysis.
+      Multidisciplinary master's program focusing on vision-based learning, path planning, and general applications of machine learning methods in robotic or data analysis applications.
 
       Courses included:
       - [Master Thesis](/projects/masterthesis/)

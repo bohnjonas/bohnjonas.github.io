@@ -41,3 +41,23 @@ share: false
 This project was part of the *Studies on Mechatronics* project which is part of the Bachelor's degree with Focus in Mechatronics at ETH Zurich. I chose this particular project to gain first experience in the field of robotics and to work on a real-world problem in collaboration with **Airbus Defence and Space**. During the project, I prepared weekly meetings with the project supervisor, conducted literature research, and developed a concept for a robotic arm and operational concept for sampling lunar regolith.
 
 The project was conducted under the supervision of Dr. Hendrik Kolvenbach at the [**Robotic Systems Lab**](https://rsl.ethz.ch/), led by Prof. Dr. Marco Hutter, and was graded **6.0 / 6.0**.
+
+<button id="like-button">❤️ Like <span id="like-count">0</span></button>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const likeButton = document.getElementById("like-button");
+    const likeCount = document.getElementById("like-count");
+
+    // Use post-specific key to store likes per article
+    const postID = window.location.pathname; 
+    let count = localStorage.getItem(`likeCount_${postID}`) || 0;
+    likeCount.textContent = count;
+
+    likeButton.addEventListener("click", () => {
+      count++;
+      localStorage.setItem(`likeCount_${postID}`, count);
+      likeCount.textContent = count;
+    });
+  });
+</script>
