@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: View CV (PDF)
         url: uploads/CV_2025.pdf
     design:
       banner:
