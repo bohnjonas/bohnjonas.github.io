@@ -40,7 +40,7 @@ share: false
 
 ---
 
-This work resulted from my Semester Project at the [Center for Project-Based Learning]{https://pbl.ee.ethz.ch/}. The goal was to develop a low-power object detection system that uses different sensor modalities to improve detection performance in challenging light conditions that could run on resource-constrained devices such as the GAP9 processor. The resulting network was 15x smaller and 7x faster than a conventional object detection network, making it suitable for real-time applications on edge devices.
+This work resulted from my Semester Project at the [Center for Project-Based Learning](https://pbl.ee.ethz.ch/). The goal was to develop a low-power object detection system that uses different sensor modalities to improve detection performance in challenging light conditions that could run on resource-constrained devices such as the GAP9 processor. The resulting network was 15x smaller and 7x faster than a conventional object detection network, making it suitable for real-time applications on edge devices.
 
 My work was later accepted for demonstration at the [Edge AI Foundation EMEA 2024](https://www.edgeaifoundation.org/events/emea-2024), where the results were presented to an audience of industry professionals and researchers.
 
