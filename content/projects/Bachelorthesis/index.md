@@ -30,3 +30,23 @@ share: false
 ---
 
 To conclude my Bachelor's degree in Mechanical Engineering at ETH Zurich, I conducted a research project at the [**Multi-Scale Robotics Lab**](https://www.msrl.ethz.ch/) under the supervision of Dr. Jonas Lussi and Dr. Simone Gervasoni. The project aimed to develop a deep learning model for automated vessel detection in fetoscopic videos to support the treatment of twin-to-twin transfusion syndrome. During this project my goal was to deepen my theoretical and practical understanding of deep learning and computer vision, and to apply this knowledge to a real-world problem in the field of medical robotics. The project was graded **6.0 / 6.0**.
+
+<button id="like-button">❤️ Like <span id="like-count">0</span></button>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const likeButton = document.getElementById("like-button");
+    const likeCount = document.getElementById("like-count");
+
+    // Use post-specific key to store likes per article
+    const postID = window.location.pathname; 
+    let count = localStorage.getItem(`likeCount_${postID}`) || 0;
+    likeCount.textContent = count;
+
+    likeButton.addEventListener("click", () => {
+      count++;
+      localStorage.setItem(`likeCount_${postID}`, count);
+      likeCount.textContent = count;
+    });
+  });
+</script>

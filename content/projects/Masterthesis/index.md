@@ -16,8 +16,6 @@ This work is currently **under review** for **publication**, more details, code 
 
 The Master Thesis was graded **6.0 / 6.0**.
 
-## Did you like this post?
-
 <button id="like-button">❤️ Like <span id="like-count">0</span></button>
 
 <script>

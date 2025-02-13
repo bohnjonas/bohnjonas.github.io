@@ -37,4 +37,22 @@ share: false
 
 ---
 
-Testing some stuff.
+<button id="like-button">❤️ Like <span id="like-count">0</span></button>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const likeButton = document.getElementById("like-button");
+    const likeCount = document.getElementById("like-count");
+
+    // Use post-specific key to store likes per article
+    const postID = window.location.pathname; 
+    let count = localStorage.getItem(`likeCount_${postID}`) || 0;
+    likeCount.textContent = count;
+
+    likeButton.addEventListener("click", () => {
+      count++;
+      localStorage.setItem(`likeCount_${postID}`, count);
+      likeCount.textContent = count;
+    });
+  });
+</script>

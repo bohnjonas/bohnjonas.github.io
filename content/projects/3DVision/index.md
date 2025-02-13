@@ -34,3 +34,23 @@ share: false
 ---
 
 This project was part of the **3D Vision** course at ETH Zurich held by **Prof. Dr. Marc Polleyfeys** leading the [**Computer Vision and Geometry Lab**](https://cvg.ethz.ch/). The goal of the project was to develop a monocular pose-estimation algorithm to localize boston dynamics' Spot robot in a shared environment with a human. To achieve this, we created a pipeline that uses a NeRF model to generate synthetic images of the robot in the environment, which are then used to train a pose-estimation network, [**OnePose++**](https://arxiv.org/pdf/2301.07673). The network is then used to estimate the pose of the robot in real-world images. The project was graded **5.75 / 6.0**.
+
+<button id="like-button">❤️ Like <span id="like-count">0</span></button>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const likeButton = document.getElementById("like-button");
+    const likeCount = document.getElementById("like-count");
+
+    // Use post-specific key to store likes per article
+    const postID = window.location.pathname; 
+    let count = localStorage.getItem(`likeCount_${postID}`) || 0;
+    likeCount.textContent = count;
+
+    likeButton.addEventListener("click", () => {
+      count++;
+      localStorage.setItem(`likeCount_${postID}`, count);
+      likeCount.textContent = count;
+    });
+  });
+</script>
