@@ -23,7 +23,6 @@ role: Master of Science in Robotics, Systems and Control
 organizations:
   - name: ETH Zurich
     url: https://master-robotics.ethz.ch/
-    logo: eth_logo_kurz_pos
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
