@@ -45,7 +45,6 @@ sections:
     content:
       title: Selected Projects
       subtitle: ''
-      text: 'Check out my recent projects below!'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
