@@ -51,9 +51,9 @@ education:
       Multidisciplinary master's program focusing on vision-based learning, path planning, and general applications of machine learning methods in robotic or data analysis applications.
 
       Courses included:
-      - [Master Thesis](/projects/masterthesis/)
-      - [Semester Project](/projects/semesterthesis/)
-      - [3D Vision](/projects/3dvision/)
+      - [Master Thesis](/project/masterthesis/)
+      - [Semester Project](/project/semesterthesis/)
+      - [3D Vision](/project/3dvision/)
       - Autonomous Mobile Robots
       - Computer Vision
       - Machine Perception
@@ -75,8 +75,8 @@ education:
       Bachelor’s program in Mechanical Engineering with a strong emphasis on mathematical and physical foundations, covering key areas such as thermodynamics, fluid dynamics, and control systems.
 
       Courses included:
-      - [Bachelor Thesis](/projects/bachelorthesis/)
-      - [Studies on Mechatronics](/projects/som/)
+      - [Bachelor Thesis](/project/bachelorthesis/)
+      - [Studies on Mechatronics](/project/som/)
       - Microrobotics
       - Control Systems I & II
       - Signals and Systems
