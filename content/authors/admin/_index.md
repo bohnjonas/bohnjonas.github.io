@@ -191,13 +191,13 @@ skills:
         description: ''
         icon: cat
 
-languages:
-  - name: English
-    description: 'fluent'
-  - name: German
-    percent: 100
-  - name: French
-    percent: 50
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: German
+#     percent: 100
+#   - name: French
+#     percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
