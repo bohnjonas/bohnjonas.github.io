@@ -196,5 +196,3 @@ Highly motivated, solution seeking and team oriented graduate with a strong back
 With hands-on experience in low-power AI applications, monocular pose estimation, and medical image processing, I have successfully deployed ML models in embedded environments and clinical settings. My professional experience at Digitec Galaxus AG has further sharpened my skills in data analysis, process optimization, and SEO-driven enhancements. 
 
 <!-- I am currently without a job but looking for a challenging opportunity in a company that is looking for a highly motivated, solution seeking and team oriented individual. -->
-
-<script defer src="https://cloud.umami.is/script.js" data-website-id="84c2865a-9315-4e3a-8bec-a486daaea4f9"></script>

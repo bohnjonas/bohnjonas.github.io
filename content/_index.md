@@ -68,3 +68,5 @@ sections:
   #     title: Languages
   #     username: admin
 ---
+
+<script defer src="https://cloud.umami.is/script.js" data-website-id="84c2865a-9315-4e3a-8bec-a486daaea4f9"></script>
