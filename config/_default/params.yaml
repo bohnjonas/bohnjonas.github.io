@@ -30,7 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: 'blox/community/custom'
+    blox: 'custom'
     fixed_to_top: true
     logo:
       text: "Jonas Bohn"
