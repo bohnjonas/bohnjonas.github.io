@@ -36,7 +36,7 @@ sections:
       columns: 2
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       columns: 3

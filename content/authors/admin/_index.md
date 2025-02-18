@@ -175,21 +175,6 @@ skills:
       - name: Linux
         description: ''
         icon: devicon/linux
-      
-
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Road Cycling
-        description: ''
-        icon: custom/bike
-      - name: Cooking
-        description: ''
-        icon: cat
-      - name: Coffee
-        description: ''
-        icon: cat
 
 # languages:
 #   - name: English
