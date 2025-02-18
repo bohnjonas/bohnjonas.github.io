@@ -130,31 +130,24 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: devicon/python
       - name: Flutter
         description: ''
-        percent: 60
         icon: devicon/flutter
       - name: Dart
         description: ''
-        percent: 50
         icon: devicon/dart
       - name: SQL
         description: ''
-        percent: 40
         icon: devicon/mysql
       - name: Bash
         description: ''
-        percent: 50
         icon: devicon/bash
       - name: Java
         description: ''
-        percent: 40
         icon: devicon/java
       - name: C++
         description: ''
-        percent: 40
         icon: devicon/cplusplus
     
   - name: Technical Toolbox
@@ -163,31 +156,24 @@ skills:
     items:
       - name: Jira
         description: ''
-        percent: 100
         icon: devicon/jira
       - name: Git
         description: ''
-        percent: 70
         icon: devicon/git
       - name: TensorFlow
         description: ''
-        percent: 60
         icon: devicon/tensorflow
       - name: PyTorch
         description: ''
-        percent: 60
         icon: devicon/pytorch
       - name: Scikit-Learn
         description: ''
-        percent: 60
         icon: devicon/scikitlearn
       - name: Docker
         description: ''
-        percent: 50
         icon: devicon/docker
       - name: Linux
         description: ''
-        percent: 50
         icon: devicon/linux
       
 
@@ -197,15 +183,12 @@ skills:
     items:
       - name: Road Cycling
         description: ''
-        percent: 80
         icon: custom/bike
       - name: Cooking
         description: ''
-        percent: 100
         icon: cat
       - name: Coffee
         description: ''
-        percent: 80
         icon: cat
 
 languages:

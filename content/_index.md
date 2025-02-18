@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Selected Projects
+      title: Academic & Research Projects
       subtitle: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
