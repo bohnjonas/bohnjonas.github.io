@@ -30,7 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: navbar
+    blox: 'layouts/partials/components/headers/navbar'
     fixed_to_top: true
     logo:
       text: "Jonas Bohn"
