@@ -223,6 +223,8 @@ languages:
 
 ---
 
-Website is currently under construction. Please check back later for more up to date content.
+Highly motivated, solution seeking and team oriented graduate with a strong background in computer vision, deep learning, and data analytics. Passionate about solving real-world challenges by developing AI-powered solutions, from medical imaging to e-commerce optimization. Experienced in working with PyTorch, TensorFlow, and SQL, leveraging data-driven insights to enhance user experience and system performance.
+
+With hands-on experience in low-power AI applications, monocular pose estimation, and medical image processing, I have successfully deployed ML models in embedded environments and clinical settings. My professional background at Digitec Galaxus AG further strengthened my expertise in data analysis, process optimization, and SEO-driven enhancements.
 
 <!-- I am currently without a job but looking for a challenging opportunity in a company that is looking for a highly motivated, solution seeking and team oriented individual. -->
