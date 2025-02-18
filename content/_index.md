@@ -63,8 +63,8 @@ sections:
       view: article-grid
       # Choose single or dual column layout
       columns: 2
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+  # - block: languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---
