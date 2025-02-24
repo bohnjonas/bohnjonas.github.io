@@ -62,9 +62,9 @@ education:
       - Probabilistic Artificial Intelligence
       - Vision Algorithms for Mobile Robotics
 
-    button:
-      text: 'Master Diploma (in progress)'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Master Diploma (in progress)'
+    #   url: 'https://example.com'
 
   - area: Bachelor of Science in Mechanical Engineering
     institution: ETH Zurich
